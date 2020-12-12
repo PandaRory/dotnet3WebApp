@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNXxkxMg5RLH3vaMN0LMxasVE8v/E+NyCXqXhaTR/g+kHe4J924duelf825gBaQH5mP/UFm21fSV7exwRuFMDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cshsuzy\\source\\repos\\dotnet3WebApp\\dotnet3WebApp\\dotnet3WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cshsuzy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
